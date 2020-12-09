@@ -1,3 +1,7 @@
+## NVIDIA AI PLAYGROUND
+
+https://www.nvidia.com/en-us/research/ai-playground/
+
 ## StyleGAN2 with adaptive discriminator augmentation (ADA)<br>&mdash; Official TensorFlow implementation
 
 ![Teaser image](./docs/stylegan2-ada-teaser-1024x252.png)
